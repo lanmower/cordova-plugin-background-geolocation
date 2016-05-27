@@ -3,3 +3,5 @@ example/SampleApp/platforms
 example/SampleApp/plugins
 
 .idea
+config.bat
+node_modules
